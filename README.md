@@ -1,2 +1,2 @@
-# siamkelo_Kgomo
-I'm a software engineer student at ALx Africa 
+# Alx_angineer_ course
+I'm now a ALX Student, this is my first repository as a full-stack engineer
